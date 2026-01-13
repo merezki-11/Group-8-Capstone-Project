@@ -1,4 +1,4 @@
-\*\*🚸⛔ Traffic Signs Recognition System\*\*
+**🚸⛔ Traffic Signs Recognition System**
 
 
 
@@ -18,7 +18,7 @@ Group 8 Project
 
 
 
-\*\*Team Members\*\*
+**Team Members**
 
 
 
@@ -106,7 +106,7 @@ Group 8 Project
 
 
 
-\*\*Overview\*\*
+**Overview**
 
 
 
@@ -166,7 +166,7 @@ The project covers:
 
 
 
-\*\*Goal\*\*
+**Goal**
 
 
 
@@ -182,7 +182,7 @@ To design and deploy a deep learning model that can accurately recognize and cla
 
 
 
-\*\*Statement of the Problem\*\*
+**Statement of the Problem**
 
 
 
@@ -222,7 +222,7 @@ There is a need for an automated system that can reliably recognize traffic sign
 
 
 
-\*\*Objectives\*\*
+**Objectives**
 
 
 
@@ -270,7 +270,7 @@ There is a need for an automated system that can reliably recognize traffic sign
 
 
 
-\*\*Project Scope\*\*
+**Project Scope**
 
 
 
@@ -334,7 +334,7 @@ Excluded:
 
 
 
-\*\*Methodology\*\*
+**Methodology**
 
 
 
@@ -350,7 +350,7 @@ The project was implemented in six phases:
 
 
 
-• Data Loading \\\& Preprocessing
+• Data Loading & Preprocessing
 
 
 
@@ -358,7 +358,7 @@ The project was implemented in six phases:
 
 
 
-&nbsp;   • Loaded .p files (train, validation, test)
+    • Loaded .p files (train, validation, test)
 
 
 
@@ -366,7 +366,7 @@ The project was implemented in six phases:
 
 
 
-&nbsp;    •Normalized image pixel values
+    •Normalized image pixel values
 
 
 
@@ -382,7 +382,7 @@ The project was implemented in six phases:
 
 
 
-&nbsp;   • Built a CNN using TensorFlow \\\& Keras
+    • Built a CNN using TensorFlow \\\& Keras
 
 
 
@@ -390,7 +390,7 @@ The project was implemented in six phases:
 
 
 
-&nbsp;   • Used convolution, pooling, dropout, and dense layers
+    • Used convolution, pooling, dropout, and dense layers
 
 
 
@@ -406,7 +406,7 @@ The project was implemented in six phases:
 
 
 
-&nbsp;   • Trained for 20 epochs
+    • Trained for 20 epochs
 
 
 
@@ -414,7 +414,7 @@ The project was implemented in six phases:
 
 
 
-&nbsp;   • Used validation data to monitor performance
+    • Used validation data to monitor performance
 
 
 
@@ -422,7 +422,7 @@ The project was implemented in six phases:
 
 
 
-• Model Evaluation \\\& Tuning
+• Model Evaluation & Tuning
 
 
 
@@ -430,7 +430,7 @@ The project was implemented in six phases:
 
 
 
-&nbsp;   • Evaluated validation accuracy and loss
+    • Evaluated validation accuracy and loss
 
 
 
@@ -438,7 +438,7 @@ The project was implemented in six phases:
 
 
 
-&nbsp;   • Generated confusion matrices
+    • Generated confusion matrices
 
 
 
@@ -454,7 +454,7 @@ Test Evaluation
 
 
 
-&nbsp;   • Tested on unseen data
+    • Tested on unseen data
 
 
 
@@ -462,7 +462,7 @@ Test Evaluation
 
 
 
-&nbsp;   • Achieved high test accuracy (~96%)
+    • Achieved high test accuracy (~96%)
 
 
 
@@ -478,7 +478,7 @@ Test Evaluation
 
 
 
-&nbsp;   • Built a web app to upload images
+    • Built a web app to upload images
 
 
 
@@ -486,7 +486,7 @@ Test Evaluation
 
 
 
-&nbsp;   • Displayed predictions and confidence scores
+    • Displayed predictions and confidence scores
 
 
 
@@ -494,7 +494,7 @@ Test Evaluation
 
 
 
-\*\*Tools \\\& Technologies\*\*
+**Tools \\\& Technologies**
 
 
 
@@ -526,7 +526,7 @@ Test Evaluation
 
 
 
-• Matplotlib \\\& Seaborn
+• Matplotlib & Seaborn
 
 
 
@@ -534,7 +534,7 @@ Test Evaluation
 
 
 
-• OpenCV \\\& PIL
+• OpenCV & PIL
 
 
 
@@ -558,7 +558,7 @@ Test Evaluation
 
 
 
-\*\*Results\*\*
+**Results**
 
 
 
@@ -598,7 +598,7 @@ Test Evaluation
 
 
 
-\*\*Discussion\*\*
+**Discussion**
 
 
 
@@ -626,7 +626,7 @@ The Streamlit app successfully demonstrates real-world usage by allowing users t
 
 
 
-\*\*Deep Learning Approach\*\*
+**Deep Learning Approach**
 
 
 
@@ -646,7 +646,7 @@ The model automatically learns important visual features such as edges, shapes, 
 
 
 
-\*\*Algorithm\*\*
+**Algorithm**
 
 
 
@@ -666,7 +666,7 @@ Convolutional Neural Network (CNN)
 
 
 
-\*\*Evaluation Metrics\*\*
+**Evaluation Metrics**
 
 
 
@@ -706,7 +706,7 @@ Convolutional Neural Network (CNN)
 
 
 
-\*\*Streamlit Web Application\*\*
+**Streamlit Web Application**
 
 
 
@@ -722,11 +722,11 @@ Below are screenshots from the Streamlit-based web application developed for tra
 
 
 
-\*\*Streamlit Home Page\*\*
+**Streamlit Home Page**
 
 
 
-!\[Streamlit Home Page](screenshot/Streamlit\_app\_home\_page.jpeg)
+![Streamlit Home Page](screenshot/Streamlit\_app\_home\_page.jpeg)
 
 
 
@@ -738,7 +738,7 @@ Below are screenshots from the Streamlit-based web application developed for tra
 
 
 
-!\[Sample Input 1 Prediction](screenshot/Sample\_Input1\_with\_predicted\_output.jpeg)
+![Sample Input 1 Prediction](screenshot/Sample\_Input1\_with\_predicted\_output.jpeg)
 
 
 
@@ -750,7 +750,7 @@ Below are screenshots from the Streamlit-based web application developed for tra
 
 
 
-!\[Sample Input 2 Prediction](screenshot/Sample\_Input2\_with\_predicted\_output.jpeg)
+![Sample Input 2 Prediction](screenshot/Sample\_Input2\_with\_predicted\_output.jpeg)
 
 
 
@@ -766,7 +766,7 @@ Below are screenshots from the Streamlit-based web application developed for tra
 
 
 
-\*\*Conclusion\*\*
+**Conclusion**
 
 
 
@@ -794,7 +794,7 @@ Below are screenshots from the Streamlit-based web application developed for tra
 
 
 
-\*\*References\*\*
+**References**
 
 
 
@@ -810,5 +810,5 @@ Below are screenshots from the Streamlit-based web application developed for tra
 
 
 
-• TensorFlow \\\& Keras Documentation
+• TensorFlow & Keras Documentation
 
